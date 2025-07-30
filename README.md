@@ -24,10 +24,11 @@ function cinitrepo() {
 }
 ```
 
-Script usage:
+
+## Script usage:
 ```bash 
    $ cinitrepo <PROJECT_NAME>
 ```
 It writes to the Makefile with the name you supply, and also renames the working dir folder to the name of your choice.
 
-This README.md gets cleared by the zsh script. 
+This README.md gets cleared by the zsh script after the clone, so its empty and ready to be left unfinished for your project.
