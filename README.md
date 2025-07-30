@@ -26,7 +26,7 @@ function cinitrepo() {
 
 Script usage:
 ```bash 
-    cinitrepo <PROJECT_NAME>
+   $ cinitrepo <PROJECT_NAME>
 ```
 It writes to the Makefile with the name you supply, and also renames the working dir folder to the name of your choice.
 
