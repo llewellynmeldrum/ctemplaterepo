@@ -32,14 +32,12 @@ function cinitrepo() {
 ```bash 
    $ cinitrepo <PROJECT_NAME>
 ```
-It writes to the Makefile with the name you supply, and also renames the working dir folder to the name of your choice.
-
-This README.md gets cleared by the zsh script after the clone, so its empty and ready to be left unfinished for your project.
+It writes to the Makefile with the name you supply, and also renames the working dir folder to the name of your choice. This README.md gets cleared by the zsh script after the clone, so its empty and ready to be left unfinished for your project.
 
 ## Dependencies:
 
-#### Git? I guess?
-Although if you are reading this chances are you have it. 
+### Git?
+Although if you are reading this chances are you have it.
 
-#### Make
+### Make
 `brew install make`. It kinda sucks but its ever so slightly easier than cmake. Just learn cmake if you are new. 
