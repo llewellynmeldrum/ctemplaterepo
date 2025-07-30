@@ -38,7 +38,7 @@ It writes to the Makefile with the name you supply, and also renames the working
 
 ## Dependencies:
 
-### Git?
+### Git
 Although if you are reading this chances are you have it.
 
 ### Make
