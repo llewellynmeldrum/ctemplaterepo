@@ -25,7 +25,6 @@ function cinitrepo() {
     touch README.md 
     echo "Initialized project: $name"
 }
-
 ```
 
 
